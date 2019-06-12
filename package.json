@@ -33,8 +33,8 @@
     "controllers"
   ],
   "dependencies": {
-    "class-transformer": "^0.1.9",
-    "class-validator": "0.8.4",
+    "class-transformer": "^0.2.3",
+    "class-validator": "^0.9.1",
     "cookie": "^0.3.1",
     "glob": "^7.0.5",
     "reflect-metadata": "^0.1.12",
